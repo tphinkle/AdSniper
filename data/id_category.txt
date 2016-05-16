@@ -1,0 +1,48 @@
+1	Comics
+2	Communication
+3	Finance
+4	Health & Fitness
+5	Medical
+6	Lifestyle
+7	Media & Video
+8	Music & Audio
+9	Photography
+10	News & Magazines
+11	Weather
+12	Productivity
+13	Business
+14	Books & Reference
+15	Education
+16	Shopping
+17	Social
+18	Sports
+19	Personalization
+20	Tools
+21	Travel & Local
+22	Libraries & Demo
+23	Arcade & Action
+24	Brain & Puzzle
+25	Cards & Casino
+26	Casual
+27	Sports Games
+28	Racing
+29	Entertainment
+30	Transportation
+31	Live Wallpaper
+32	Widgets
+33	Action
+34	Adventure
+35	Board
+36	Card
+37	Casino
+38	Educational
+39	Family
+40	Music
+41	Puzzle
+42	Role Playing
+43	Simulation
+44	Sports
+45	Strategy
+46	Trivia
+47	Word
+48	Arcade
