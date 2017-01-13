@@ -4,16 +4,16 @@ This program was developed as part of a group competition to create an applicati
 
 ### Gallery
 
-https://github.com/tphinkle/AdSniper/blob/master/data/plots/sports_game_users_behavior.png?raw=true
+![img](https://github.com/tphinkle/AdSniper/blob/master/data/plots/sports_game_users_behavior.png?raw=true)
 
 This plot shows a clear correlation between 'sports' and 'action' app users, a relationship that could be used to target both types of app users with similar ads.
 
 
-https://github.com/tphinkle/AdSniper/blob/master/data/plots/corr_heatmap.png?raw=true
+![img](https://github.com/tphinkle/AdSniper/blob/master/data/plots/corr_heatmap.png?raw=true)
 
 Correlation matrix of all app categories.
 
-https://github.com/tphinkle/AdSniper/blob/master/data/plots/4_1.png?raw=true
+![img](https://github.com/tphinkle/AdSniper/blob/master/data/plots/4_1.png?raw=true)
 
 Projection of the app-usage data and k-means centroids (5-means) on two app categories.
 
